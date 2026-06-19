@@ -42,14 +42,7 @@ Exposed the application publicly over the internet.
 
 ---
 
-# Monitoring
 
-Enabled Amazon CloudWatch logging for EKS control plane observability.
-
-Logs enabled:
-- API logs
-- Audit logs
-- Authenticator logs
 
 ---
 
