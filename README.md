@@ -131,6 +131,6 @@ kubectl get svc
 
 📢 [View LinkedIn Project Post of AWS Dashboard and SNS](https://www.linkedin.com/posts/sujal-shaha-15832b286_aws-devops-kubernetes-ugcPost-7459566829926219777-rYqw/)
 
-📢 [View LinkedIn Project Post of Infrastructure on AWS]([https://www.linkedin.com/posts/sujal-shaha-15832b286_aws-devops-kubernetes-ugcPost-7459566829926219777-rYqw/](https://www.linkedin.com/posts/sujal-shaha-15832b286_aws-devops-kubernetes-activity-7457710088657620992-mVcU))
+📢 [View LinkedIn Project Post of Infrastructure on AWS](https://www.linkedin.com/posts/sujal-shaha-15832b286_aws-devops-kubernetes-activity-7457710088657620992-mVcU)
 
 🏅 AWS Certified Cloud Practitioner (CLF-C02)
