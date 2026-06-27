@@ -127,6 +127,8 @@ kubectl get svc
 
 ## 👨‍💻 Author
 
-**Sujal Shaha** | [LinkedIn](https://linkedin.com/in/sujal-shaha) | [GitHub](https://github.com/sujal-07-Ronny)
+**Sujal Shaha** | [LinkedIn Profile](https://www.linkedin.com/in/sujal-shaha-15832b286/) | [GitHub](https://github.com/sujal-07-Ronny)
+
+📢 [View LinkedIn Project Post](https://www.linkedin.com/posts/sujal-shaha-15832b286_aws-devops-kubernetes-ugcPost-7459566829926219777-rYqw/)
 
 🏅 AWS Certified Cloud Practitioner (CLF-C02)
