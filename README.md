@@ -11,6 +11,10 @@
 Production-style deployment of a containerized frontend application on **Amazon EKS** using Kubernetes, integrated with **Route 53** for custom domain routing, and **CloudWatch + SNS** for real-time monitoring and alerting.
 
 > ⚠️ AWS resources are torn down to avoid costs. All configurations, YAMLs, and screenshots are preserved in this repo.
+> 💡 Note: `:latest` tag used for demo purposes. 
+> Production deployments should use immutable 
+> image tags (e.g., git SHA or version number) 
+> for reproducibility.
 
 ---
 
